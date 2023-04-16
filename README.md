@@ -1,7 +1,4 @@
-“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”—Albert Einstein”.
+<blockquote>“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”—Albert Einstein”.</blockquote>
 
-- 👀 Tech, Web Develepment, Sports, Games....
-- 🌱 HTML5
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi </h1>
 
