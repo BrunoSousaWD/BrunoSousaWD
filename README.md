@@ -3,6 +3,9 @@
 ### Hi there, Bruno de Sousa here.
 #### Front-End Development
 
+![pexels-pixabay-270408 (3)](https://user-images.githubusercontent.com/43056757/232340498-f4a76abe-9388-4c67-a125-274ad0fc023c.jpg)
+
+
 
 I'm "de Sousa, Bruno de Sousa", I enjoy doing and learning about Front-End projects.
 Frameworks like **Bootstrap, Sass, React, Tailwind** are some of the tools that I use to get my projects done.
