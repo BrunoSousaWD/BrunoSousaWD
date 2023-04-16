@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @BrunoSousaWD
+“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”—Albert Einstein”.
+
 - 👀 Tech, Web Develepment, Sports, Games....
 - 🌱 HTML5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-BrunoSousaWD/BrunoSousaWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
